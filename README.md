@@ -4,5 +4,5 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Wiser Software (Tourcoing, FR)**
-- ⚙️ I use daily: React, Nodejs, GraphQL, Docker, Git, Html, Css...
+- 🏢 I'm currently working at **TeamR (Paris, FR)**
+- ⚙️ I use daily: React, Nodejs, React Native, GraphQL, MongoDB, Docker, Git, Html, Css...
