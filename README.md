@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jovaanb" alt="jovaanb" /></a> </p>
 
-- 🔭 I’m currently working on [Mon Club](https://www.monclub.app)
+- 🔭 I’m currently working on **Reactjs, Nextjs, React Native, MongoDB**
 
-- 🌱 I’m currently learning **Reactjs, Nextjs, React Native, MongoDB**
-
-- 🤝 I’m looking for help **learning clean code, TDD and good development practices**
+- 🌱 I’m currently learning **learning clean code, TDD and good development practices**
 
 - 📫 How to reach me **bienvenujovan@gmail.com**
 
