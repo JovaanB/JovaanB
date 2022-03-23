@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Reactjs, Nextjs, React Native, MongoDB**
 
-- 🌱 I’m currently learning **learning clean code, TDD and good development practices**
+- 🌱 I’m currently **learning clean code, TDD and good development practices**
 
 - 📫 How to reach me **bienvenujovan@gmail.com**
 
