@@ -5,15 +5,16 @@ A passionate software developer
 -------------------------------
 
 I loves to code and design. I use <b>Next.js / ReactJS</b> to build interfaces and features for web applications. 
-At the moment, I'm in my last year of study in computer science My interest in computers started at a very young age, and I was very eager to learn as much as possible about them. I remember my first website, created years ago, with a terrible interface and design. It was designed to showcase my cousin, a world champion French boxer. 
+My interest in computers started at a very young age, and I was very eager to learn as much as possible about them. I remember my first website, created years ago, with a terrible interface and design. It was designed to showcase my cousin, a world champion French boxer. 
 
 I like sports, I'm a big fan of combat sports, especially French boxing which I've been practicing for more than 20 years and of which I'm French champion. 
 
-If you ask me which stack I prefer, I would say Framework : Reactjs / Next.js Database : MongoDB CSS : MaterialUI / TailwindCSS You can do anything you can think of with these three things. 
+If you ask me which stack I prefer, I would say Framework : Reactjs / Next.js Database : SQL CSS : MaterialUI / TailwindCSS You can do anything you can think of with these three things. 
 
 Next.js is an open-source web development framework built on top of Node.js enabling React-based web application features such as server-side rendering and static website generation. I love my work. Feel free to have a look at my portfolio and don't hesitate to contact me.
 
 *   🌍  I'm based in Lille, France
+*   🔵  I'm software engineer at AXA France
 *   🖥️  See my portfolio at [Portfolio](http://jovanbienvenu.com)
 *   ✉️  You can contact me at [bienvenujovan@gmail.com](mailto:bienvenujovan@gmail.com)
 *   🚀  I'm currently working on [Quotation.studio](http://quotation.studio)
