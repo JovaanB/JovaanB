@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jovan BIENVENU
 ======================================================================================================================================
 
-A passionate software developer
+A passionate software engineer
 -------------------------------
 
 I loves to code and design. I use <b>Next.js / ReactJS</b> to build interfaces and features for web applications. 
 My interest in computers started at a very young age, and I was very eager to learn as much as possible about them. I remember my first website, created years ago, with a terrible interface and design. It was designed to showcase my cousin, a world champion French boxer. 
 
-I like sports, I'm a big fan of combat sports, especially French boxing which I've been practicing for more than 20 years and of which I'm French champion. 
+I like sports, I'm a big fan of combat sports, especially French boxing which I've been practicing for more than 20 years and of which I'm French champion.
 
 If you ask me which stack I prefer, I would say Framework : Reactjs / Next.js Database : SQL CSS : MaterialUI / TailwindCSS You can do anything you can think of with these three things. 
 
