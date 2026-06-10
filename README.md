@@ -18,9 +18,9 @@ Le sport occupe une grande place dans ma vie.
 Je suis passionné par les sports de combat, et plus particulièrement par la **boxe française**, que je pratique depuis plus de 20 ans et dont je suis **champion du monde**.
 
 Si je devais choisir ma stack préférée :
-- **Framework** : React.js / Next.js / .NET
-- **Base de données** : SQL
-- **CSS** : Material UI / TailwindCSS  
+- **Framework** : React.js / React Native / Next.js / .NET
+- **Base de données** : SQL / MongoDB
+- **CSS** : Material UI / TailwindCSS 
 
 Avec ces outils, on peut construire quasiment tout ce qu’on imagine.  
 Next.js est un framework permettant de développer des applications React optimisées grâce au rendu côté serveur et à la génération statique.  
@@ -91,8 +91,8 @@ Sports play a huge part in my life.
 I’m a big fan of combat sports, especially **French boxing**, which I’ve been practicing for over 20 years — and I’m proud to be a **world champion**.
 
 If you ask me about my favorite stack:
-- **Framework**: React.js / Next.js / .NET
-- **Database**: SQL  
+- **Framework**: React.js / React Native / Next.js / .NET
+- **Database**: SQL / MongoDB
 - **CSS**: Material UI / TailwindCSS  
 
 With these tools, you can build almost anything.  
